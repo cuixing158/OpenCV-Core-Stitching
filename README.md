@@ -35,8 +35,8 @@ Welcome to this MATLAB-based project that replicates the core functionalities of
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/opencv-stitching-matlab.git
-cd opencv-stitching-matlab
+git clone https://github.com/cuixing158/OpenCV-Core-Stitching.git
+cd OpenCV-Core-Stitching
 ```
 
 Open MATLAB and navigate to the project directory.Run the provided example script `main_opencv_stitching_demo.mlx` to see the stitching process in action.
