@@ -1,5 +1,8 @@
 # OpenCV Core Stitching Pipeline
 
+[![View OpenCV-Core-Stitching on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://ww2.mathworks.cn/matlabcentral/fileexchange/180332-opencv-core-stitching)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=cuixing158/OpenCV-Core-Stitching&file=main_opencv_stitching_demo.mlx)
+
 MATLAB example based on OpenCV's [stitching module](https://github.com/opencv/opencv/tree/4.x/modules/stitching), inspired by the source code of [stitching_detailed.cpp](https://github.com/opencv/opencv/blob/4.x/samples/cpp/stitching_detailed.cpp).
 
 ## Overview
@@ -71,4 +74,4 @@ If you have any suggestions about this project, feel free to contact me.
 
 [e-mail: cuixingxing150[at]gmail.com]
 
-Happy stitching! ::smile::
+Happy stitching! :smile::smile::smile:
