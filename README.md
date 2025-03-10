@@ -68,10 +68,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by the OpenCV Stitching module.
 - Special thanks to the MATLAB community for their support and resources.
 
-## References
-
-https://pages.cs.wisc.edu/~dyer/cs534/papers/szeliski-alignment-tutorial.pdf
-
 ## Contact & Feedback
 
 If you have any suggestions about this project, feel free to contact me.
@@ -79,3 +75,9 @@ If you have any suggestions about this project, feel free to contact me.
 [e-mail: cuixingxing150[at]gmail.com]
 
 Happy stitching! :smile::smile::smile:
+
+## References
+
+[1] https://pages.cs.wisc.edu/~dyer/cs534/papers/szeliski-alignment-tutorial.pdf
+
+[2] Matthew Brown and David G Lowe. Automatic panoramic image stitching using invariant features. International journal of computer vision, 74(1):59–73, 2007.
