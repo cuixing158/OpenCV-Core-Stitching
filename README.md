@@ -68,6 +68,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by the OpenCV Stitching module.
 - Special thanks to the MATLAB community for their support and resources.
 
+## References
+
+https://pages.cs.wisc.edu/~dyer/cs534/papers/szeliski-alignment-tutorial.pdf
+
 ## Contact & Feedback
 
 If you have any suggestions about this project, feel free to contact me.
